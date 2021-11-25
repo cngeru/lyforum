@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "54184214013",
+    "project_id": "lyforum",
+    "storage_bucket": "lyforum.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54184214013:android:b8277328ede4236447ad94",
+        "android_client_info": {
+          "package_name": "com.lyforum.lyforum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54184214013-8r0is8auvpufdqqn0gqcae4r6om6ik4o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lyforum.lyforum",
+            "certificate_hash": "0ade04c83eaa146c8356742af28666b64345faf0"
+          }
+        },
+        {
+          "client_id": "54184214013-ibse85e6k4qk4ikli639ko7mn9utkjo6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPi53efaSOfFiCjUzoq_dL4QRGhWlY-3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54184214013-ibse85e6k4qk4ikli639ko7mn9utkjo6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "54184214013-83ivgge5osftma22svgrifmrugbmt242.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lyforum.lyforum"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
