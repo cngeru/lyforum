@@ -1,15 +1,12 @@
 # lyforum
 
-Lyforum
+Lyforum (Hive and Firebase DB Hybrid App)
 
 ## Getting Started
 
-This project is a starting point for the Lyforum application.
+Add relevant firebase config files to the android and ios folders
 
-C NGERU - ngeru.dev@gmail.com (work email)
-        - ngerudchege@gmail.com (Github email)
-
-### DONE
+### DOES
 1. Runs on firebase
 2. User can create drafts which can be uploaded later using Hive DB
 3. Simple UI given the requirements
